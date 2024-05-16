@@ -14,6 +14,7 @@ Education
 * M.S. in School of Artificial Intelligence, Jilin University, 2026 (expected)
 * B.S. in College of Computer Science and Technolog, Jilin University, 2023
 
+<!--
 
 *This page has just been generated. Need to be edited.*
 
@@ -64,3 +65,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
