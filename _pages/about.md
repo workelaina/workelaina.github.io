@@ -9,11 +9,9 @@ redirect_from:
 
 Yu Bai (柏羽). Badge name (nickname): userElaina.
 
-The School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/index.htm)) at Jilin University ([JLU](https://www.jlu.edu.cn/#)) (吉林大学人工智能学院), Master of Sciences (计算机科学与技术, 学硕在读).
+The School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/index.htm)) at Jilin University ([JLU](https://www.jlu.edu.cn/#)) (吉林大学人工智能学院), Master of Sciences (计算机科学与技术, 学硕在读). China (中国(大陆)), Changchun (长春).
 
-China, Changchun (长春).
-
-<!--
+userElaina@gmail.com
 
 *This page has just been generated. Need to be edited.*
 
@@ -57,5 +55,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
--->
