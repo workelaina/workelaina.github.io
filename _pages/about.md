@@ -13,4 +13,4 @@ The School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/index.htm
 
 userElaina@gmail.com
 
-More personalized page: https://github.com/userElaina
+My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil)
