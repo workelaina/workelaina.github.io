@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yu Bai"
 title_separator          : "-"
 name                     : &name "Yu Bai"
-description              : &description "personal description"
+description              : &description "CS MSc"
 url                      : https://workelaina.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "workelaina/workelaina.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Yu Bai"
   pronouns         : "he/his"
-  bio              : "SAI, MSc"
+  bio              : "CS MSc"
   location         : "China, Changchun"
-  employer         : "Jilin University"
+  employer         : "JLU, SAI"
   uri              : # URL
   email            : "userElaina@gmail.com" 
 
