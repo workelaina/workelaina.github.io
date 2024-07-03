@@ -9,30 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+PDF: [English](resume_yubai.pdf) [中文](简历_baiyu.pdf)
+
 Education
 ======
-* M.S. in School of Artificial Intelligence, Jilin University, 2026 (expected)
-* B.S. in College of Computer Science and Technolog, Jilin University, 2023
+* M.Eng. in Computer Science, Jilin University, 2023 - present
+  * @School of Artificial Intelligence
+  * Supervisor: Prof. [Yi Chang](http://yichang-cs.com/)
+  * GPA: 2.x/4.0, Ave. Score: 8x.xx/100
+* B.Sc. in Computer Science, Jilin University, 2019 - 2023
+  * @College of Computer Science and Technolog
+  * GPA: 3.33/4.0, Ave. Score: 85.75/100
 
 Skills
 ======
 * Programming Language
-  * Python
-  * ... 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Python > C > C++ > Go > Haskell, Java, Lua
+  * Markdown, LaTeX, Typst
+* Tool & Platform
+  * Git, GitHub, FFmpeg, VS, VSC, Nginx
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
