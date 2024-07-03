@@ -21,9 +21,9 @@ repository               : "workelaina/workelaina.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yu Bai"
-  pronouns         : "he/his"  
+  pronouns         : "he/his"
   bio              : "SAI, MSc"
   location         : "China, Changchun"
   employer         : "Jilin University"
