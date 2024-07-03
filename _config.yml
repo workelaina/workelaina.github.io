@@ -12,7 +12,7 @@ title                    : "Yu Bai"
 title_separator          : "-"
 name                     : &name "Yu Bai"
 description              : &description "CS MSc"
-url                      : "https://workelaina.github.io"
+url                      : https://workelaina.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "workelaina/workelaina.github.io"
 
