@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yu Bai (柏羽). Badge name (nickname): userElaina.
+Yu Bai (柏羽). Badge Name (Nickname): userElaina.
 
 China, Changchun.
 <!-- 中国(内地), 长春. -->
