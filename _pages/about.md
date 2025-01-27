@@ -9,7 +9,7 @@ redirect_from:
 
 Yu Bai (柏羽). Badge name (nickname): userElaina.
 
-China, Changchun. 中国(大陆), 长春.
+China, Changchun. 中国(内地), 长春.
 
 The School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/index.htm)) at Jilin University ([JLU](https://www.jlu.edu.cn/#)). 吉林大学人工智能学院.
 
