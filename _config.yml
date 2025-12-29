@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Yu Bai"
 title_separator          : "-"
 name                     : &name "Yu Bai"
-description              : &description "CS M.Eng."
+description              : &description "CS M.Sc."
 url                      : "https://workelaina.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "workelaina/workelaina.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yu Bai"
   pronouns         : "he/his"
-  bio              : "CS M.Eng."
+  bio              : "CS M.Sc."
   location         : "China, Changchun"
   employer         : "JLU, SAI"
   # employer_site    : "https://sai.jlu.edu.cn"
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "userElaina"
   zhihu            : # URL
 
 
