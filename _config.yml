@@ -29,14 +29,14 @@ author:
   employer         : "JLU, SAI"
   employer_site    : "https://sai.jlu.edu.cn/en/"
   # cv               : "resume_yubai.pdf"
-  uri              : "https://workelaina.github.io"
+  uri              : # "https://workelaina.github.io"
   email            : "userElaina@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "ttps://scholar.google.com/citations?user=O72q0JoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=O72q0JoAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-5169-1125"
+  orcid            : # "https://orcid.org/0009-0005-5169-1125"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
