@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/decvfal
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-11-30
-venue: 'NeurIPS 2025 (Poster)'
+venue: 'NeurIPS (Poster)'
 paperurl: 'https://workelaina.github.io/DecVFAL/static/blob/DecVFAL.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
@@ -13,9 +13,8 @@ Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wis
 
 Tianxing Man, [Yu Bai](https://workelaina.github.io/), Ganyu Wang, Jinjie Fang, Haoran Fang, [Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ), [Yi Chang](http://www.yichang-cs.com/).
 
-[[NeurIPS 2025 (Poster)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115884)]
+[[NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/115884)]
 [[OpenReview](https://openreview.net/forum?id=qH70UC6SNy)]
-
 [[Homepage](https://workelaina.github.io/DecVFAL)]
 [[PDF](https://workelaina.github.io/DecVFAL/static/blob/DecVFAL.pdf)]
 [[Code](https://github.com/workelaina/DecVFAL)]
