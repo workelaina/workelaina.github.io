@@ -24,10 +24,12 @@ Education
 Skills
 ======
 * Programming Language
-  * Python > C > C++ > Go > Haskell, Java, Lua
+  * Python > C > C++ > Go > Haskell, Java, Lua, Rust
   * Markdown, LaTeX, Typst
 * Tool & Platform
-  * Git, GitHub, FFmpeg, VS, VSC, Nginx
+  * Manjaro, Windows, Debian, Ubuntu, Proxmox VE, Arch Linux, OpenWRT, ...
+  * Git, GitHub, FFmpeg, OpenCV, VS, VS Code, Nginx, Unity, ...
+  * PyTorch, TensorFlow, Jupyter, Anaconda, ...
 
 Publications
 ======
