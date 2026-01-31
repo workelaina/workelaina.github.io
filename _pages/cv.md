@@ -9,20 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-PDF: [English](resume_yubai.pdf) [中文](简历_baiyu.pdf)
+<!-- PDF: [English](resume_yubai.pdf) [中文](简历_baiyu.pdf) -->
+
+GitHub: [@userElaina](https://github.com/userElaina)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=userElaina&rank_icon=github&include_all_commits=true)](https://github.com/userElaina)
 
 Education
-======
-* M.Eng. in Computer Science, Jilin University, 2023 - present
+---------
+* M.Sc. in Computer Science, Jilin University, 2023 - present
   * @School of Artificial Intelligence
   * Supervisor: Prof. [Yi Chang](http://yichang-cs.com/)
   * GPA: 2.x/4.0, Ave. Score: 8x.xx/100
 * B.Sc. in Computer Science, Jilin University, 2019 - 2023
-  * @College of Computer Science and Technolog
+  * @College of Computer Science and Technology
   * GPA: 3.33/4.0, Ave. Score: 85.75/100
 
 Skills
-======
+------
 * Programming Language
   * Python > C > C++ > Go > Haskell, Java, Lua, Rust
   * Markdown, LaTeX, Typst
@@ -32,7 +36,7 @@ Skills
   * PyTorch, TensorFlow, Jupyter, Anaconda, ...
 
 Publications
-======
+------------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
