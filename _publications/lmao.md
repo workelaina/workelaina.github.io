@@ -28,5 +28,12 @@ Fine-tuning large language models (LLMs) has achieved significant success in dow
 BibTeX:
 
 ```latex
-@
+@inproceedings{
+    zhang2026three,
+    title={Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes},
+    author={Jia Zhang and Tianshuo Chen and Hualin Zhang and Yu Bai and Zhaogeng Liu and zhiqiang xu and Yi Chang and Bin Gu},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=373rsDQsq4}
+}
 ```
