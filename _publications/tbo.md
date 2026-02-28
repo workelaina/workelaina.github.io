@@ -17,6 +17,6 @@ Retrieval-Augmented Generation (RAG) is recognized as an effective strategy for 
 
 BibTeX:
 
-```latex
+```bibtex
 @
 ```

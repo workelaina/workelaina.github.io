@@ -27,7 +27,7 @@ Vertical Federated Learning (VFL) enables participants to collaboratively train 
 
 BibTeX:
 
-```latex
+```bibtex
 @inproceedings{Accelerated2025TianxingMan,
     author = {Tianxing, Man and Yu, Bai and Ganyu, Wang and Jinjie, Fang and Haoran, Fang and Bin, Gu and Yi, Chang},
     title = {Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wise Dependencies},

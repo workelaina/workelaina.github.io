@@ -15,6 +15,6 @@ Abstract:
 
 BibTeX:
 
-```latex
+```bibtex
 @
 ```

@@ -27,7 +27,7 @@ Fine-tuning large language models (LLMs) has achieved significant success in dow
 
 BibTeX:
 
-```latex
+```bibtex
 @inproceedings{
     zhang2026three,
     title={Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes},
