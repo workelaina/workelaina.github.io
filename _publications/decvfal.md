@@ -13,9 +13,9 @@ Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wis
 
 Tianxing Man, [Yu Bai](https://workelaina.github.io/), Ganyu Wang, Jinjie Fang, Haoran Fang, [Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ), [Yi Chang](http://www.yichang-cs.com/).
 
-[[Homepage](https://workelaina.github.io/DecVFAL)]
 [[NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/115884)]
 [[OpenReview](https://openreview.net/forum?id=qH70UC6SNy)]
+[[Homepage](https://workelaina.github.io/DecVFAL)]
 [[PDF](https://workelaina.github.io/DecVFAL/static/blob/DecVFAL.pdf)]
 [[Code](https://github.com/workelaina/DecVFAL)]
 
