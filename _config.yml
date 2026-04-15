@@ -29,7 +29,7 @@ author:
   employer         : "JLU, SAI"
   employer_site    : "https://sai.jlu.edu.cn/en/"
   cv               : "https://workelaina.github.io/cv/"
-  uri              : "https://workelaina.github.io"
+  uri              : # "https://workelaina.github.io"
   email            : "userElaina@gmail.com"
 
   # Academic websites
