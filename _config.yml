@@ -28,8 +28,8 @@ author:
   location         : "China, Changchun"
   employer         : "JLU, SAI"
   employer_site    : "https://sai.jlu.edu.cn/en/"
-  # cv               : "resume_yubai.pdf"
-  uri              : # "https://workelaina.github.io"
+  cv               : "https://workelaina.github.io/cv/"
+  uri              : "https://workelaina.github.io"
   email            : "userElaina@gmail.com"
 
   # Academic websites
