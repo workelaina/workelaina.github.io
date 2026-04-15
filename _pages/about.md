@@ -22,6 +22,8 @@ The School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/index.htm
 Master of Science in Computer Science and Technology.
 <!-- 学硕, 计算机科学与技术, 在读 -->
 
+Advisor: [Prof. Yi Chang (常毅)](http://www.yichang-cs.com/).
+
 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil)
 
 userElaina{at}gmail.com
