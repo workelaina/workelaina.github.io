@@ -13,30 +13,28 @@ redirect_from:
 
 GitHub: [@userElaina](https://github.com/userElaina)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=userElaina&rank_icon=github&include_all_commits=true)](https://github.com/userElaina)
+[![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=userelaina&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
 
 Education
 ---------
-* M.Sc. in Computer Science, Jilin University, 2023 - present
+* M.Sc. in Computer Science, Jilin University, 2023 - 2026
   * @School of Artificial Intelligence
   * Supervisor: Prof. [Yi Chang](http://yichang-cs.com/)
-  * GPA: 2.x/4.0, Ave. Score: 8x.xx/100
 * B.Sc. in Computer Science, Jilin University, 2019 - 2023
   * @College of Computer Science and Technology
-  * GPA: 3.33/4.0, Ave. Score: 85.75/100
-
-Skills
-------
-* Programming Language
-  * Python > C > C++ > Go > Haskell, Java, Lua, Rust
-  * Markdown, LaTeX, Typst
-* Tool & Platform
-  * Manjaro, Windows, Debian, Ubuntu, Proxmox VE, Arch Linux, OpenWRT, ...
-  * Git, GitHub, FFmpeg, OpenCV, VS, VS Code, Nginx, Unity, ...
-  * PyTorch, TensorFlow, Jupyter, Anaconda, ...
 
 Publications
 ------------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+------
+* Programming Language
+  * Python > C > C++ > Go > Java, Lua, JavaScript, Haskell, Rust, ...
+  * Markdown, LaTeX, Typst, HTML, ...
+* Tool & Platform
+  * Manjaro, Debian, Ubuntu, Proxmox VE, Arch Linux, OpenWRT, NixOS...
+  * Git, GitHub, FFmpeg, OpenCV, Vim, Nginx, Unity, ...
+  * PyTorch, TensorFlow, Cuda, Jupyter, Anaconda, Ollama, Llama Factory, Open WebUI, ...
