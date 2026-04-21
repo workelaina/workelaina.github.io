@@ -13,7 +13,7 @@ redirect_from:
 
 GitHub: [@userElaina](https://github.com/userElaina)
 
-[![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=userelaina&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/userElaina)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=userElaina&include_orgs=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/userElaina)
 
 Education
 ---------
