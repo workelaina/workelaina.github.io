@@ -19,11 +19,11 @@ Education
 ---------
 * M.Sc. in Computer Science and Technology
   * 08/2023 -- 06/2026 (Expected)
-  * School of Artificial Intelligence, Jilin University, Changchun, China
+  * [School of Artificial Intelligence](https://sai.jlu.edu.cn/en/), [Jilin University](https://en.jlu.edu.cn/), Changchun, China
   * Advisor: Prof. **[Yi Chang](http://yichang-cs.com/)**
 * B.Sc. in Computer Science and Technology, **Tang Ao-Qing** Honor Program
   * 08/2019 -- 06/2023
-  * College of Computer Science and Technology, Jilin University, Changchun, China
+  * [College of Computer Science and Technology](https://ccst.jlu.edu.cn/English.htm), [Jilin University](https://en.jlu.edu.cn/), Changchun, China
 
 Honors and Awards
 -----------------
