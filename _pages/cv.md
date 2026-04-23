@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[PDF](resume_en.pdf)]
+[[PDF](../files/resume_en.pdf)]
 
 GitHub: [@userElaina](https://github.com/userElaina)
 
