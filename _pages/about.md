@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi ~ I'm **Yu Bai** (**柏羽**). Badge Name (Nickname): **userElaina**.
+Hi ~ I'm **[Yu Bai](https://workelaina.github.io/)** (**柏羽**). Badge Name / Nickname: **[userElaina](https://github.com/userElaina)**.
 
-CS M.Sc., [School of Artificial Intelligence](https://sai.jlu.edu.cn/en/), [Jilin University](https://en.jlu.edu.cn/), Changchun, China.
+M.Sc. in Computer Science and Technology.
+
+[School of Artificial Intelligence](https://sai.jlu.edu.cn/en/), [Jilin University](https://en.jlu.edu.cn/), Changchun, China.
 
 Advisor: Prof. **[Yi Chang](http://www.yichang-cs.com/)**.
 
-To [ask](https://github.com/userelaina/userelaina/issues) me about anything.
+Free to [ask](https://github.com/workelaina/workelaina.github.io/issues) me about anything.
 
 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil)
 
