@@ -13,7 +13,7 @@ TBO: Towards Stealthy Black-box Adversarial Attacks against RAG-Based LLMs
 
 [Yu Bai](https://workelaina.github.io/), Tianxing Man, Jia Zhang, Zhaogeng Liu, Tianshuo Chen, [Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ), [Yi Chang](http://www.yichang-cs.com/).
 
-Keywords: LLM, RAG, Adversarial Attack, Black-box.
+Keywords: Large Language Model, Retrieval-Augmented Generation, Adversarial Attack, Black-box.
 
 Abstract:
 

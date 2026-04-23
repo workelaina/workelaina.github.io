@@ -19,7 +19,7 @@ Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Mod
 
 Jia Zhang, [Yu Bai](https://workelaina.github.io/), Hualin Zhang, Tianshuo Chen, Zhaogeng Liu, Zhiqiang Xu, [Yi Chang](http://www.yichang-cs.com/), [Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ).
 
-Keywords: LLM Tuning, LoRA, Zero-order, Machine Learning, Optimization.
+Keywords: Fine-tuning, LoRA, Zero-order, Black-box, Alternating Optimization.
 
 Abstract:
 

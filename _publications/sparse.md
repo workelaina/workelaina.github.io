@@ -11,7 +11,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 Towards Sparse Spiking LLMs: A Novel ANN-to-SNN Conversion Framework with Temporal Masking
 
-Keywords: Sparse, SNN, LLM.
+Keywords: Large Language Model, Spiking Neuron Network, Sparse.
 
 Abstract:
 
