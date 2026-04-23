@@ -11,7 +11,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 CE-VFAL: A Novel Framework for Communication-Efficient Vertical Federated Adversarial Learning
 
-Keywords: Vertical Federated Learning, Adversarial Training, Adversarial Sample, Zero-order, Black-box, Safety and Robustness.
+Keywords: Vertical Federated Learning, Adversarial Training, Adversarial Sample, Zero-order, Safety and Robustness.
 
 Abstract:
 
