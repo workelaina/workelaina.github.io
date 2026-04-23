@@ -21,7 +21,7 @@ Hobby: Music and ACGN
 
 *Bad Apple!!* (ASCII Art) [C++](https://github.com/bad-apple-lab/Bad-Apple) [Python](https://github.com/bad-apple-lab/Bad-Apple-Python-Module) [![badapple](https://img.shields.io/pypi/v/badapple.svg?style=flat-square&logo=pypi&label=badapple)](https://pypi.org/project/badapple)
 
-[Elysia *The Prophet's Hero* MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy) [![BV1qTmrYKEUP](https://img.shields.io/badge/Bilibili-w%2F%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP) [![BV1ZTmrYKE3W](https://img.shields.io/badge/Bilibili-w%2Fo%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W) [![EkEbB38t2Cg](https://img.shields.io/badge/YouTube-w%2F%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg) [![tHiDTm-ReIQ](https://img.shields.io/badge/YouTube-w%2Fo%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
+[Elysia~♪ MAD of *The Prophet's Hero*](https://github.com/userElaina/the-brave-Elysia-of-prophecy) [![BV1qTmrYKEUP](https://img.shields.io/badge/Bili-w%2F%20Sub-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP) [![BV1ZTmrYKE3W](https://img.shields.io/badge/Bili-w%2Fo%20Sub-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W) [![EkEbB38t2Cg](https://img.shields.io/badge/YTb-w%2F%20Sub-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg) [![tHiDTm-ReIQ](https://img.shields.io/badge/YTb-w%2Fo%20Sub-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
 
 To reach me:
 
