@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- PDF: [English](resume_yubai.pdf) [中文](简历_baiyu.pdf) -->
+PDF: [[CV / Résumé](resume_en.pdf)]
 
 GitHub: [@userElaina](https://github.com/userElaina)
 
@@ -17,17 +17,18 @@ GitHub: [@userElaina](https://github.com/userElaina)
 
 Education
 ---------
-* M.Sc. in Computer Science, Jilin University, 2023 - 2026
-  * @School of Artificial Intelligence
-  * Supervisor: Prof. [Yi Chang](http://yichang-cs.com/)
-* B.Sc. in Computer Science, Jilin University, 2019 - 2023
-  * @College of Computer Science and Technology
+* M.Sc. in Computer Science and Technology
+  * 08/2023 -- 06/2026 (Expected)
+  * School of Artificial Intelligence, Jilin University, Changchun, China
+  * Advisor: Prof. **[Yi Chang](http://yichang-cs.com/)**
+* B.Sc. in Computer Science and Technology, **Tang Ao-Qing** Honor Program
+  * 08/2019 -- 06/2023
+  * College of Computer Science and Technology, Jilin University, Changchun, China
 
-Publications
-------------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Honors and Awards
+-----------------
+* *Bronze Medal*, Collegiate Computer Systems \& Programming Contest, China.
+* *Rank 48*, Hackergame, China.
 
 Skills
 ------
@@ -38,3 +39,9 @@ Skills
   * Manjaro, Debian, Ubuntu, Proxmox VE, Arch Linux, OpenWRT, NixOS...
   * Git, GitHub, FFmpeg, OpenCV, Vim, Nginx, Unity, ...
   * PyTorch, TensorFlow, Cuda, Jupyter, Anaconda, Ollama, Llama Factory, Open WebUI, ...
+
+Publications
+------------
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
