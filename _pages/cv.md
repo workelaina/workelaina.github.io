@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV / Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF: [[CV / Résumé](resume_en.pdf)]
+[[PDF](resume_en.pdf)]
 
 GitHub: [@userElaina](https://github.com/userElaina)
 
