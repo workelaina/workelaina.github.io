@@ -7,23 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Yu Bai (柏羽). Badge Name (Nickname): userElaina.
+Hi ~ I'm **Yu Bai** (**柏羽**). Badge Name (Nickname): **userElaina**.
 
-<!-- China, Changchun. -->
-<!-- 中国长春 -->
+CS M.Sc., School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/)), Jilin University ([JLU](https://en.jlu.edu.cn/)), Changchun, China.
 
-The School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/index.htm)) at Jilin University ([JLU](https://www.jlu.edu.cn/#)).
-<!-- 吉林大学人工智能学院 -->
+Advisor: Prof. **[Yi Chang](http://www.yichang-cs.com/)**.
 
-<!-- Research-based -->
-<!-- M.Phil Master of Philosophy -->
-<!-- M.Sc. Master of Science -->
-<!-- MSE Master of Science in Engineering -->
-Master of Science in Computer Science and Technology.
-<!-- 学硕, 计算机科学与技术, 在读 -->
-
-Advisor: [Prof. Yi Chang (常毅)](http://www.yichang-cs.com/).
+To [ask](https://github.com/userelaina/userelaina/issues) me about anything.
 
 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil)
 
-userElaina{at}gmail.com
+Hobby: Music and ACGN
+
+*Bad Apple!!* (ASCII Art) [C++](https://github.com/bad-apple-lab/Bad-Apple) [Python](https://github.com/bad-apple-lab/Bad-Apple-Python-Module) [![badapple](https://img.shields.io/pypi/v/badapple.svg?style=flat-square&logo=pypi&label=badapple)](https://pypi.org/project/badapple)
+
+[Elysia *The Prophet's Hero* MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy) [![BV1qTmrYKEUP](https://img.shields.io/badge/Bilibili-w%2F%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP) [![BV1ZTmrYKE3W](https://img.shields.io/badge/Bilibili-w%2Fo%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W) [![EkEbB38t2Cg](https://img.shields.io/badge/YouTube-w%2F%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg) [![tHiDTm-ReIQ](https://img.shields.io/badge/YouTube-w%2Fo%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
+
+To reach me:
+
+Email: [userElaina{AT}gmail.com](mailto:userElaina@gmail.com)
+
+Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
