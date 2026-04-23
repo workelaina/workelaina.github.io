@@ -9,7 +9,7 @@ redirect_from:
 
 Hi ~ I'm **Yu Bai** (**柏羽**). Badge Name (Nickname): **userElaina**.
 
-CS M.Sc., School of Artificial Intelligence ([SAI](https://sai.jlu.edu.cn/en/)), Jilin University ([JLU](https://en.jlu.edu.cn/)), Changchun, China.
+CS M.Sc., [School of Artificial Intelligence](https://sai.jlu.edu.cn/en/), [Jilin University](https://en.jlu.edu.cn/), Changchun, China.
 
 Advisor: Prof. **[Yi Chang](http://www.yichang-cs.com/)**.
 
