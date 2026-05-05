@@ -11,7 +11,7 @@ venue: 'Unpublished'
 
 Rethinking Quantized LLM Fine-Tuning: An Alternating Zeroth-Order Algorithm in Continuous Mapping Space.
 
-<!-- Keywords: Zeroth-order, Fine-tuning, Quantized LLMs.
+Keywords: Zeroth-order, Fine-tuning, Quantized LLMs.
 
 Abstract:
 
@@ -19,4 +19,4 @@ BibTeX:
 
 ```bibtex
 @
-``` -->
+```
