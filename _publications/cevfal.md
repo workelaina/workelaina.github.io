@@ -14,7 +14,7 @@ venue: 'IJCAI'
 [[PDF](https://workelaina.github.io/CE-VFAL/static/blob/CE-VFAL.pdf)]
 [[Code](https://github.com/workelaina/CE-VFAL)]
 
-CE-VFAL: A Novel Framework for Communication-Efficient Vertical Federated Adversarial Learning
+CE-VFAL: A Novel Framework for Communication-Efficient Vertical Federated Adversarial Learning.
 
 Tianxing Man, Jinjie Fang, Ganyu Wang, [Yu Bai](https://workelaina.github.io/), Zhaogeng Liu, [Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ), [Yi Chang](http://www.yichang-cs.com/).
 

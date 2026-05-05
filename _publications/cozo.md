@@ -9,7 +9,7 @@ venue: 'Unpublished'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-Rethinking Quantized LLM Fine-Tuning: An Alternating Zeroth-Order Algorithm in Continuous Mapping Space
+Rethinking Quantized LLM Fine-Tuning: An Alternating Zeroth-Order Algorithm in Continuous Mapping Space.
 
 <!-- Keywords: Zeroth-order, Fine-tuning, Quantized LLMs.
 

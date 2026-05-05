@@ -9,7 +9,7 @@ venue: 'Unpublished'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-Towards Sparse Spiking LLMs: A Novel ANN-to-SNN Conversion Framework with Temporal Masking
+Towards Sparse Spiking LLMs: A Novel ANN-to-SNN Conversion Framework with Temporal Masking.
 
 Keywords: Large Language Model, Spiking Neuron Network, Sparse.
 

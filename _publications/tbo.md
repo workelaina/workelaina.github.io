@@ -9,7 +9,7 @@ venue: 'Unpublished'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-TBO: Towards Stealthy Black-box Adversarial Attacks against RAG-Based LLMs
+TBO: Towards Stealthy Black-box Adversarial Attacks against RAG-Based LLMs.
 
 [Yu Bai](https://workelaina.github.io/), Tianxing Man, Jia Zhang, Zhaogeng Liu, Tianshuo Chen, [Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ), [Yi Chang](http://www.yichang-cs.com/).
 
