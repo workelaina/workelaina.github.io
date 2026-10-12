@@ -26,6 +26,7 @@ Vertical Federated Learning (VFL) involves multiple participants collaborating t
 
 BibTeX:
 
+{% raw %}
 ```bibtex
 @inproceedings{CEVFAL2026TianxingMan,
     title     = {{CE-VFAL}: A Novel Framework for Communication-Efficient Vertical Federated Adversarial Learning},
@@ -40,3 +41,4 @@ BibTeX:
     url       = {https://doi.org/10.24963/ijcai.2026/5737},
 }
 ```
+{% endraw %}
