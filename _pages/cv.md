@@ -18,7 +18,7 @@ GitHub: [@userElaina](https://github.com/userElaina)
 Education
 ---------
 * M.Sc. in Computer Science and Technology
-  * 08/2023 -- 06/2026 (Expected)
+  * 08/2023 -- 06/2026
   * [School of Artificial Intelligence](https://sai.jlu.edu.cn/en/), [Jilin University](https://en.jlu.edu.cn/), Changchun, China
   * Advisor: [Prof. **Yi Chang**](http://yichang-cs.com/)
 * B.Sc. in Computer Science and Technology, [**Tang Ao-Qing** Honor Program in Science](http://www.moe.gov.cn/jyb_xwfb/s271/202102/t20210205_512643.html)
