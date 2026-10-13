@@ -19,6 +19,10 @@ Free to [ask](https://github.com/workelaina/workelaina.github.io/issues) me abou
 
 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil)
 
+[XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5)
+[![hf](https://img.shields.io/badge/XHToken-Spark--X2.5-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/collections/XHToken/spark-x25)
+[![ollama](https://img.shields.io/badge/SparkLLM-Spark--X2.5-000000?style=flat-square&logo=ollama)](https://ollama.com/SparkLLM)
+
 *Bad Apple!!* (ASCII Art) [C++](https://github.com/bad-apple-lab/Bad-Apple) [Python](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
 [![badapple](https://img.shields.io/pypi/v/badapple.svg?style=flat-square&logo=pypi&label=badapple)](https://pypi.org/project/badapple)
 
